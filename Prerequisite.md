@@ -1,4 +1,4 @@
-# Prerequisite before installing Openstack #
+# Prerequisite before installing Openstack(All-In-One) #
 
 ###### * This is Stein version but it's better to use the recent version to avoid dependency and any other errors in the future * ######
 ###### * Software Version : CentOS Linux release 7.3.1611 (Core) ######
