@@ -34,5 +34,5 @@
 
 
 
-##### *I basically referenced the website, docs.openstack.org, to create the Openstack tutorials #####
+##### *I basically referenced the website,docs.openstack.org, to create the Openstack tutorials #####
 
