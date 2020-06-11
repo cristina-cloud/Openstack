@@ -6,7 +6,7 @@
 
 1. Creating a database
 ```
-$ mysql -u root -p -> Use the database access client to connect to the database server as the root user
+$ mysql -u root -p -> Use the database access client to connect to the database server as the root user.
 
 MariaDB [(none)]> CREATE DATABASE keystone; -> Create the keystone database
 
