@@ -174,4 +174,4 @@ $ openstack --os-placement-api-version 1.6 trait list --sort-column name
 -> List available resource classes and traits:
 ```
 
-##### Whenever you download packages, choose either yum or pip command and they shouldn't be used at the same time!!! #####
+##### Whenever you download packages, choose either yum or pip command and only the same command must be used repeatedly!!! #####
