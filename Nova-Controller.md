@@ -3,5 +3,6 @@
 ### Controller node runs the Identity service, image service, management portions of Compute, management portion of Networking, various Networking agents, and the Dashboard. ###
 ### It also includes supporting services such as an SQL database,message queue, and Network Time Protocol(NTP) ###
 
-##### * I recommend installing Nova after installing Neutron #####
+##### * I recommend installing Nova after installing Neutron, therefore the manual for controller is in Neutron part ##### 
+
 
